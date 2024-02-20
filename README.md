@@ -41,7 +41,10 @@ The following code demonstrates how I used Linux commands to change the permissi
 <br><img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/ecbcb83e-f6b1-44ae-afde-756733f9d0ff" alt="Image 4"></br>
 
 <h2>Summary</h2>
-I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.
+
+<br>I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. 
+
+This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.</br>
 
 
 
