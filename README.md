@@ -14,7 +14,7 @@ The permissions do not currently reflect the level of authorization that should 
 <h2> Check file and directory details</h2>
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
 
-<img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/582df23a-cf0e-414b-843f-0fbf1bd738be" alt="Image 1">
+<br><img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/582df23a-cf0e-414b-843f-0fbf1bd738be" alt="Image 1"></br>
 
 <h2>Change file permissions</h2>
 
@@ -22,7 +22,7 @@ The following code demonstrates how I used Linux commands to determine the exist
 
 The following code demonstrates how I used Linux commands to do this:</br>
 
-<img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/1467273f-5057-4542-b20f-cb159f11ba83" alt="Image 2">
+<br><img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/1467273f-5057-4542-b20f-cb159f11ba83" alt="Image 2"></br>
 
 <h2>Change file permissions on a hidden file
 </h2>
@@ -30,7 +30,7 @@ The research team at my organization recently archived project_x.txt. They do no
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-<img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/59cdb654-03d5-4d49-9eaa-73d2d43b846d" alt="Image 3">
+<br><img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/59cdb654-03d5-4d49-9eaa-73d2d43b846d" alt="Image 3"></br>
 
 <h2>Change directory permissions
 </h2>
@@ -38,7 +38,7 @@ My organization only wants the researcher2 user to have access to the drafts dir
 
 The following code demonstrates how I used Linux commands to change the permissions:
 
-<img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/ecbcb83e-f6b1-44ae-afde-756733f9d0ff" alt="Image 4">
+<br><img src="https://github.com/JustinMills2024/File-permissions-in-Linux/assets/159082478/ecbcb83e-f6b1-44ae-afde-756733f9d0ff" alt="Image 4"></br>
 
 <h2>Summary</h2>
 I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. The first step in this was using ls -la to check the permissions for the directory. This informed my decisions in the following steps. I then used the chmod command multiple times to change the permissions on files and directories.
